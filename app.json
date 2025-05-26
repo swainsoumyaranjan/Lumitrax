@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Lumitrax",
+    "slug": "lumitrax",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "webpack"
+    }
+  }
+}
