@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.92fbb506.js",
-    "static/js/584.ea455d93.js": "/static/js/584.ea455d93.js",
-    "index.html": "/index.html",
-    "serve.json": "/serve.json",
-    "manifest.json": "/manifest.json",
-    "main.92fbb506.js.map": "/static/js/main.92fbb506.js.map",
-    "584.ea455d93.js.map": "/static/js/584.ea455d93.js.map"
+    "main.js": "/Lumitrax/static/js/main.92fbb506.js",
+    "static/js/584.ea455d93.js": "/Lumitrax/static/js/584.ea455d93.js",
+    "index.html": "/Lumitrax/index.html",
+    "serve.json": "/Lumitrax/serve.json",
+    "manifest.json": "/Lumitrax/manifest.json",
+    "main.92fbb506.js.map": "/Lumitrax/static/js/main.92fbb506.js.map",
+    "584.ea455d93.js.map": "/Lumitrax/static/js/584.ea455d93.js.map"
   },
   "entrypoints": [
     "static/js/584.ea455d93.js",
