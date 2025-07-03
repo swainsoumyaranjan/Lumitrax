@@ -26,11 +26,6 @@ Lumitrax is an innovative, scalable, and user-centric platform designed to [brie
   - Go-to-market strategy
 
 
-👥 Mentorship & Networking
-
-- Connect with experienced mentors and industry leaders.
-- Join networking events with entrepreneurs, domain experts, and potential collaborators.
-- Ongoing support and feedback throughout the program.
 
 ---
  🧰 Resources & Support
